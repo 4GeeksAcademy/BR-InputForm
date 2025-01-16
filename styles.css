@@ -1,0 +1,28 @@
+form{
+    margin: 15px;
+}
+.card-footer {
+    display: flex;
+    justify-content: right;
+}
+
+.cancel-btn {
+    margin:5px;
+}
+
+.cards-accepted{
+    background-color: gray;
+
+}
+
+
+.lower-form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-check-label{
+    justify-content: center;
+    align-items: center;
+}
+
